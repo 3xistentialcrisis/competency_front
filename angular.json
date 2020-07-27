@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "competency"
+    }
+  },
+  "defaultProject": "competency",
+  "cli": {
+    "analytics": false
+  }
 }
